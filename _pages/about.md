@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,7 @@ redirect_from:
 
 # Projects
 
-- [Calendar project](https://github.com/benjamin-kraczek/calendarProject) A simple calendar that shows the month and can add events onto it.
+- [Calendar project](https://github.com/benjamin-kraczek/calendarProject) "A simple calendar that shows the month and can add events onto it."
 
 ---
 ## Education
