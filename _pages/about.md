@@ -14,6 +14,11 @@ redirect_from:
 
 ---
 
+# Projects
+
+- [Calendar project](https://github.com/benjamin-kraczek/calendarProject)
+
+---
 ## Education
 
 **Information Technologies Oracle Academy (ITOA)**  
