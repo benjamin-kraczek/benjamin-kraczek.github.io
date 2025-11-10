@@ -16,7 +16,7 @@ redirect_from:
 
 # Projects
 
-- [Calendar project](https://github.com/benjamin-kraczek/calendarProject) "A simple calendar that shows the month and can add events onto it."
+- [Calendar project](https://github.com/benjamin-kraczek/calendarProject) A simple calendar that shows the month and can add events onto it.
 
 ---
 ## Education
